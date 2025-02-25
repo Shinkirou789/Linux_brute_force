@@ -18,5 +18,5 @@ No es necesario realizar ninguna instalación adicional.
    Ejemplo:
 
    ```bash
-   linux_fuerza_bruta.sh shinki /usr/share/seclists/Passwords/Leaked-Databases/rockyou.txt
+   ./linux_fuerza_bruta.sh shinki /usr/share/seclists/Passwords/Leaked-Databases/rockyou.txt
    ```
